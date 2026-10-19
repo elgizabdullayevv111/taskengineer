@@ -64,8 +64,6 @@ span{
     color: gray;
 }
 .box1:hover{
-    background-color: orange;
-    transition: .5s;
     color: white;
     transform: translateY(-30px);
     .icons{
@@ -78,8 +76,6 @@ i:hover{
     transform: translateY(-10px)
 }
 .box2:hover{
-    background-color: brown;
-    transition: .5s;
     color: white;
     transform: translateY(-30px);
     .icons{
@@ -87,8 +83,6 @@ i:hover{
     }
 }
 .box3:hover{
-    background-color: goldenrod;
-    transition: .5s;
     color: white;
     transform: translateY(-30px);
     .icons{
@@ -96,8 +90,6 @@ i:hover{
     }
 }
 .box4:hover{
-    background-color: orange;
-    transition: .5s;
     color: white;
     transform: translateY(-30px);
     .icons{
